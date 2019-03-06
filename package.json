@@ -57,7 +57,7 @@
   ],
   "dependencies": {
     "handsontable": "6.2.2",
-    "hot-formula-parser": "^2.3.1",
+    "hot-formula-parser": "jandom/formula-parser#csp-violation-fix",
     "moment": "2.20.1",
     "numbro": "^2.0.6",
     "pikaday": "1.5.1"
